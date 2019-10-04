@@ -334,3 +334,7 @@
 - Bio: Scienctist, developer
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
 
+#### Name: [Dakshita Garg](https://github.com/gdakshita)
+- Place: Bangalore, India
+- Bio: Developer
+- GitHub: [Dakshita Garg](https://github.com/gdakshita)
